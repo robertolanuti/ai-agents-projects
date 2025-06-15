@@ -1,0 +1,10 @@
+python
+development
+typing
+speed
+test
+random
+word
+input
+check
+correctness
